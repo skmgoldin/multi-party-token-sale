@@ -1,0 +1,16 @@
+{
+  "name": "mp-token-sale",
+  "version": "0.0.1",
+  "description": "A multi-seller token sale backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mike Goldin <mike.goldin@consensys.net>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.9.0",
+    "ethjs-query": "^0.2.4",
+    "ethjs-provider-http": "^0.1.6"
+  }
+}

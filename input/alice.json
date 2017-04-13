@@ -1,0 +1,14 @@
+{
+  "id": "alice",
+  "wallet": {
+    "proxy": "bob",
+    "address": "0x000762F1FaDb6C53ceeEdD38CC2342F58EEdC16F"
+  },
+  "sale": {
+    "price": 500,
+    "owner": "0x7e8a75c9080ba503aebec74ed66729b863098c4c",
+    "quantity": 25000000,
+    "address": "0x12eac7600a2ba55f1503687d265785a3ac323064"
+  },
+  "prod": false
+}

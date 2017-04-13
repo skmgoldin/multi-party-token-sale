@@ -1,0 +1,13 @@
+{
+  "id": "bob",
+  "wallet": {
+    "address": "0x000762F1FaDb6C53ceeEdD38CC2342F58EEdC16F"
+  },
+  "sale": {
+    "price": 10,
+    "owner": "0x7e8a75c9080ba503aebec74ed66729b863098c4c",
+    "quantity": 5000000,
+    "address": "0x93ffce35322278b6b775a5cdd16d6d15415485d4"
+  },
+  "prod": false
+}
